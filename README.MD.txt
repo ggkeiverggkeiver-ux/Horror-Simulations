@@ -1,4 +1,4 @@
-# Horror-Simulations 👻
+r-Simulations 👻
 
 This repository contains historical and entertainment-focused horror simulations.
 
